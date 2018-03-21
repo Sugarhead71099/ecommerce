@@ -1,5 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
+<script type="text/javascript">window.location.href = 'public/';</script>
 <title>403 Forbidden</title>
 </head><body>
 <h1>Forbidden</h1>
